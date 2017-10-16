@@ -3,6 +3,7 @@ package es.esy.kapcapx;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        String s = "Hello world";
+        System.out.println(s);
     }
 }
